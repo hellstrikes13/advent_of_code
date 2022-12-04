@@ -6,7 +6,7 @@ Rock defeats Scissors,  a > z
 Scissors defeats Paper, c > y
 Paper defeats Rock.     b > x
 '''
-with open('rk','r') as f:
+with open('rocks','r') as f:
     data =  f.read()
     w = []
     l = []
